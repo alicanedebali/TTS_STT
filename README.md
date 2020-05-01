@@ -1,2 +1,4 @@
-"# TTS_STT " 
-"# In TTS corporation gtts and pyttsx3 and In STT using SpeechRecognition" 
+"# TTS_STT "
+
+"# In Text to Speech using gtts,pyttsx3 and corporation gtts and pyttsx3.
+   In STT using SpeechRecognition" 
